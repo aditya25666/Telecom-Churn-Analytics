@@ -1,0 +1,3 @@
+churn_status,total_customers,average_tenure_days,minimum_tenure_days,maximum_tenure_days
+Churned,1894,954.5,218,1755
+Retained,8106,1037.4,303,1764

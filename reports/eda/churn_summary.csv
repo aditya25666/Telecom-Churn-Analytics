@@ -1,0 +1,2 @@
+total_customers,churned_customers,retained_customers,churn_rate_percentage,retention_rate_percentage
+10000,1894,8106,18.94,81.06

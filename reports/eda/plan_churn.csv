@@ -1,0 +1,3 @@
+plan_type,total_customers,churned_customers,churn_percentage
+Prepaid,4940,965,19.53
+Postpaid,5060,929,18.36

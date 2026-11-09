@@ -1,0 +1,3 @@
+churn_status,total_customers,average_data_usage_gb,average_recharge_count,average_recharge_amount,average_complaints,average_monthly_charges
+Churned,1894,174.25,5.99,3013.09,1.02,757.35
+Retained,8106,243.67,7.07,3577.49,0.86,751.59

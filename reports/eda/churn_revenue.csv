@@ -1,0 +1,3 @@
+churn_category,customer_count,associated_monthly_charges
+Retained,8106,6092411.78
+Churned,1894,1434421.52

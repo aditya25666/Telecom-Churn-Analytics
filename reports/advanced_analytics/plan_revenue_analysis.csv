@@ -1,0 +1,5 @@
+plan_type,churn_status,customer_count,associated_monthly_charges,average_monthly_charge
+Postpaid,Churned,929,711532.93,765.91
+Postpaid,Retained,4131,3104685.75,751.56
+Prepaid,Churned,965,722888.59,749.11
+Prepaid,Retained,3975,2987726.03,751.63

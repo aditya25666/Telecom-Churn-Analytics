@@ -1,0 +1,5 @@
+customer_segment,customer_count,avg_monthly_charges
+Regular Customer,3693,749.42
+Frequent Recharge,2615,756.65
+Historically Churned,1894,757.35
+Frequent Complaints,1798,748.7
